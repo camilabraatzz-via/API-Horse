@@ -16,7 +16,15 @@
 			"hash": "525c71503c467b1db394d33d04bbc966",
 			"artifacts": {},
 			"failed": false,
-			"changed": true
+			"changed": false
+		},
+		"github.com/hashload/horse-compression": {
+			"name": "horse-compression",
+			"version": "1.1.11",
+			"hash": "d23ea9e74fe0eb9ebf20970c5878f17b",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
 		},
 		"github.com/hashload/jhonson": {
 			"name": "jhonson",
